@@ -1,0 +1,38 @@
+body {
+    margin: auto !important;
+    max-width: 1024px;
+    min-width: 420px;
+}
+.padd{
+    padding: 20px;
+}
+.photo {
+    padding: 20px;
+    width: 60%;
+    margin-left: 60px;
+}
+
+
+.bcg_left {
+    width: 35%;
+    background-color: blueviolet;
+}
+
+.bcg_right {
+    width: 65%;
+    background-color: burlywood;
+}
+footer {
+    display: flex;
+}
+
+footer img {
+    width: 20%;
+}
+.icons img{
+    width: 6%;
+}
+
+.logo_RS {
+    width: 100%;
+}
